@@ -1,0 +1,6 @@
+[submodule "joblish-frontend"]
+	path = joblish-frontend
+	url = git@github.com:bogdaniordan/joblish-frontend.git
+[submodule "travely-backend"]
+	path = travely-backend
+	url = git@github.com:bogdaniordan/travely-backend.git
