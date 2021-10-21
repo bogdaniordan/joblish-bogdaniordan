@@ -4,3 +4,6 @@
 [submodule "travely-backend"]
 	path = travely-backend
 	url = git@github.com:bogdaniordan/travely-backend.git
+[submodule "joblish-companies-frontend"]
+	path = joblish-companies-frontend
+	url = git@github.com:bogdaniordan/joblish-companies-frontend.git
