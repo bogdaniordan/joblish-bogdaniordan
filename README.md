@@ -119,16 +119,16 @@ All prerequisites must be installed, accordingly to the technologies used in thi
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/bogdaniordan/travely-backend
+   git clone https://github.com/bogdaniordan/joblish-backend
    ```
 2. Run the server
 
 * Frontend
 
-1. Clone the customer repo and host repo
+1. Clone the job seeker and company repos
    ```sh
-   git clone https://github.com/bogdaniordan/travely-frontend
-   git clone https://github.com/bogdaniordan/travely-host-frontend
+   git clone https://github.com/bogdaniordan/joblish-frontend
+   git clone https://github.com/bogdaniordan/joblish-companies-frontend
    ```
 2. Install NPM packages
    ```sh
@@ -143,36 +143,26 @@ All prerequisites must be installed, accordingly to the technologies used in thi
 ## Usage
 
 Further I will shortly name, describe and visualize some main features of the app.
-### Customer application
-* Customers can create an account, browse, view and reserve various accommodations.
+### Job seeker application
+* Future employees can browse and apply to various jobs.
 
-![Screenshot from 2021-10-21 11-52-02](https://user-images.githubusercontent.com/72221647/138472638-e4d9fc17-480d-410b-be05-faee82842670.png)
-![Screenshot from 2021-10-21 12-32-23](https://user-images.githubusercontent.com/72221647/138472677-38e0e3a6-fefc-486f-a791-44531202b7d1.png)
-![Screenshot from 2021-10-21 12-32-41](https://user-images.githubusercontent.com/72221647/138472709-83b1c1f8-23c7-4141-8485-1ee718c59ad4.png)
+![Screenshot from 2021-10-21 12-51-20](https://user-images.githubusercontent.com/72221647/138556378-6b2974d4-4dc3-4c61-9d1b-e76fd1acb43c.png)
+![Screenshot from 2021-10-21 12-58-05](https://user-images.githubusercontent.com/72221647/138556402-5e14254a-2561-4702-b870-c31a82c7f3dd.png)
+![Screenshot from 2021-10-21 16-04-11](https://user-images.githubusercontent.com/72221647/138556421-ea13cc44-7a18-4efc-95e3-26621cb4162c.png)
 
-* Customer can browse/edit his profile, manage his bookings 
+* Job hunters can manage their profile, save favorite jobs, add job preferences and check listed companies.
 
-![Screenshot from 2021-10-21 12-32-56](https://user-images.githubusercontent.com/72221647/138472959-97d83070-0a05-4323-b43b-b25ca9921bb4.png)
+![Screenshot from 2021-10-21 16-04-20](https://user-images.githubusercontent.com/72221647/138556477-7f26f64a-bf37-430d-aabb-87f848b9fe4c.png)
+![Screenshot from 2021-10-21 16-04-27](https://user-images.githubusercontent.com/72221647/138556490-a58e62bc-17c9-4fcf-b7f6-7218ed71357e.png)
+![Screenshot from 2021-10-21 16-04-59](https://user-images.githubusercontent.com/72221647/138556500-9ef0dc37-06bb-4938-a6ce-f21e3c509658.png)
 
-* Customers can seach and rent a car for a determined period of time.
+### Companies application
 
-![Screenshot from 2021-10-21 12-33-08](https://user-images.githubusercontent.com/72221647/138473048-5ad7bbed-a358-4ca1-a60c-0cdd6c7972b9.png)
+* Companies have a dashboard where they can accept/reject applications, search for new ones and edit/remove jobs.
 
-* There is a community feature where users can make new friends, make posts and chat privately.
-
-![Screenshot from 2021-10-22 17-32-38](https://user-images.githubusercontent.com/72221647/138473289-ac423fd8-5256-45ea-9a5d-1e6ac5e27b17.png)
-![Screenshot from 2021-10-22 17-32-53](https://user-images.githubusercontent.com/72221647/138473354-0aab61de-3125-41b9-a7ba-b3b6a2c89269.png)
-
-### Host application
-
-* Hosts can add new accommodations or manage their bookings.
-
-![Screenshot from 2021-10-21 12-37-44](https://user-images.githubusercontent.com/72221647/138473752-28941616-bd91-4684-929a-73febe205ba3.png)
-![Screenshot from 2021-10-21 12-37-56](https://user-images.githubusercontent.com/72221647/138474007-78f584ac-be14-440b-bcdf-cde7d1c92fd5.png)
-
-* Hosts can answer and resolve questions received from their customers.
-
-![Screenshot from 2021-10-21 12-38-40](https://user-images.githubusercontent.com/72221647/138473987-68a6cea0-d451-40ac-8e3f-5d756da24f55.png)
+![Screenshot from 2021-10-21 16-06-06](https://user-images.githubusercontent.com/72221647/138556615-a714c89c-5a4b-4384-93dd-0cd260db2a75.png)
+![Screenshot from 2021-10-21 16-06-15](https://user-images.githubusercontent.com/72221647/138556623-6e7701c4-2118-4a00-90e3-06c262e349a1.png)
+![Screenshot from 2021-10-21 16-06-27](https://user-images.githubusercontent.com/72221647/138556640-346d937d-2e0c-4ea7-b093-272541983cdd.png)
 
 <!-- ROADMAP -->
 ## Roadmap
